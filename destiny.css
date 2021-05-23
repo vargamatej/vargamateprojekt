@@ -1,20 +1,4 @@
-body { 
-    margin-left: 300px;
-    margin-right: 400px;
-    margin-top: 25px;
-    font-size: 140%;
-    background-image: url(destinykep2.jpg);
-    background-size: 2000px
-}
-img {
-    width: 230px;
-    float: top;
-}
-#fegyverek {
-    text-align: center;
-    font-weight: bold;
-    font-size: 200%;
-}
-.cool {
-    font-size: 250%;
+body {
+    background-color: lightblue;
+    text-align: center
 }

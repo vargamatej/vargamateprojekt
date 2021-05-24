@@ -5,11 +5,33 @@ body {
 }
 table, th, td{
     border-spacing: 20px 10px ;
-    border: 3px solid rgb(0, 0, 0);
+    border: 3px solid black;
     border-collapse: collapse;
     text-align: center;
     vertical-align: left;
     padding: 10px;
-    color: rgb(59, 36, 4);
     margin: auto;
+}
+a { 
+    padding: 20px;
+}
+a:link{
+    color: blue;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-decoration: none;
+    font-size: 100%;
+    width: auto;
+    text-align: center;
+}
+a:visited{
+    color: auto;
+}
+a:hover{
+    color: white;
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
 }
